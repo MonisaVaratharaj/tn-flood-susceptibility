@@ -1,5 +1,9 @@
 This is a college capstone project that develops an integrated coastal flood mapping and impact assessment system for Tamil Nadu, India. It combines satellite remote sensing, hydrological simulation, machine learning, and geological analysis into a unified Android mobile application — enabling data-driven flood intelligence for disaster managers, researchers, and citizens.
 
+
+## 🌐 Live Demo
+👉 [View Interactive Flood Susceptibility Map](https://monisavaratharaj.github.io/tn-flood-susceptibility/)
+
 The project spans  sub-districts across Tamil Nadu, analysing  geological factors using the Frequency Ratio (FR) method, and integrates four independent technical modules developed by a team of four members.
 
 
